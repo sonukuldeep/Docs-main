@@ -20,13 +20,6 @@ A heartly thanks to open source community without whom this project would never 
  - Opensource community
  - My brain
 
-
-## Run using
-
-```bash
-  npm run dev
-```
-
 ## In the browser open
 
 ```bash
