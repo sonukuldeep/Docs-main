@@ -19,3 +19,27 @@ hr {
     margin-right: auto;
     border-top: 2px dashed gray;
 }
+
+.gatsby-remark-prismjs-copy-button-container {
+    top: 50px !important;
+    left: 0 !important;
+    margin-top: -50px !important;
+
+    & .gatsby-remark-prismjs-copy-button {
+        margin-left: 0 !important;
+        margin-right: 10px !important;
+        padding: 3px 5px !important;
+    }
+
+    & .gatsby-remark-prismjs-copy-button:hover {
+        background-color: rgb(92, 149, 169);
+        ;
+    }
+}
+
+.Post-module--post--3a994 .gatsby-remark-prismjs-copy-button-container {
+    
+    & .gatsby-remark-prismjs-copy-button {
+        margin-right: 5px !important;
+    }
+}
