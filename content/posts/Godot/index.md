@@ -695,7 +695,7 @@ for n in 9:
     print(n)
 ```
 
-## While Loop
+### While Loop
 
 The while loop evaluates a boolean expression to decide whether to keep looping or exit the loop. Again, we may break out of the loop with a break statement or skip to the end of the statement block with a continue statement.
 
