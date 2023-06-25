@@ -30,6 +30,9 @@ GDScript is entirely independent from Python and is not based on it.
 - [Functions](#functions)
 - [Conditional](#conditional-statements)
 - [Loops](#gdscript-looping)
+- [Array](#arrays)
+- [Dictionary](#dictionaries)
+- [Classes](#classes)
 
 ## Numbers
 
