@@ -17,6 +17,7 @@ export default defineConfig({
         text: 'All Blogs',
         items: [
           { text: 'Godot', link: '/godot/' },
+          { text: 'Tips', link: '/tips/' },
         ]
       }
     ],
