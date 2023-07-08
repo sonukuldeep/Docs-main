@@ -14,3 +14,4 @@ GDScript is entirely independent from Python and is not based on it.
 - [Functions](/godot/functions)
 - [Conditional statement](/godot/conditional-statements)
 - [Loops](/godot/loops)
+- [Array](/godot/array)
