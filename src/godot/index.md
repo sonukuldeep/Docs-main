@@ -8,4 +8,5 @@ GDScript is entirely independent from Python and is not based on it.
 
 ## Table of contents
 
-[Numbers](/godot/numbers)
+- [Numbers](/godot/numbers)
+- [Variables](/godot/variables)
