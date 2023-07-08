@@ -10,3 +10,6 @@ GDScript is entirely independent from Python and is not based on it.
 
 - [Numbers](/godot/numbers)
 - [Variables](/godot/variables)
+- [Operators](/godot/operators)
+- [Functions](/godot/functions)
+- [Conditional statement](/godot/conditional-statements)
