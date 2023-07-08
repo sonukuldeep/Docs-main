@@ -15,3 +15,4 @@ GDScript is entirely independent from Python and is not based on it.
 - [Conditional statement](/godot/conditional-statements)
 - [Loops](/godot/loops)
 - [Array](/godot/array)
+- [Dictionaries](/godot/dictionaries)
