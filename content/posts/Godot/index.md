@@ -33,6 +33,7 @@ GDScript is entirely independent from Python and is not based on it.
 - [Array](#arrays)
 - [Dictionary](#dictionaries)
 - [Classes](#classes)
+- [Hello](Hello)
 
 ## Numbers
 
@@ -41,6 +42,8 @@ Numbers are an important type of data in any computer program. GDScript supports
 We might assign numbers to variables. Then the value may be passed around and changed. If it’s important that the value should not be changed then it should be assigned to a constant.
 
 Here are some examples of number assignments. Comments start with a # character.
+
+
 
 ```py
 # Integers
